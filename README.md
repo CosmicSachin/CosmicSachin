@@ -1,5 +1,5 @@
 ![logo](https://github.com/CosmicSachin/CosmicSachin/blob/main/Untitled201_20230810143815.png?raw=true)
-<h1 align="center">Hi 👋, I'm Sachin Bhattacharjee</h1>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">Aspiring developer passionate about creating websites and learning new skills.</h3>
 
