@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/CosmicSachin/CosmicSachin/blob/main/newl.png)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">Aspiring developer passionate about creating websites and learning new skills.</h3>
